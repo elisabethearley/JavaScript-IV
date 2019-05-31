@@ -145,6 +145,7 @@ aaron.standUp('Webpt7');
 elisha.debugsCode(calina, 'CSS');
 
 console.log(liz);
+console.log(david);
 console.log(marianne);
 console.log(thomas.catchPhrase);
 console.log(rossen.previousBackground);
