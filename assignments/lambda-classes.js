@@ -144,4 +144,12 @@ calina.sprintChallenge(calina, 'JavaScript-IV.');
 aaron.standUp('Webpt7');
 elisha.debugsCode(calina, 'CSS');
 
+console.log(liz);
+console.log(marianne);
+console.log(thomas.catchPhrase);
+console.log(rossen.previousBackground);
+console.log(calina);
+console.log(aaron.location, aaron.favInstructor);
+console.log(elisha.specialty, '-', elisha.favLanguage, '-', elisha.catchPhrase);
+
 
